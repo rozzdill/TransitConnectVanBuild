@@ -1,0 +1,67 @@
+{
+    "outline": {
+        "overview": "This is the high-level brainstorming document for the van build project, including decision-making points for various sections.",
+        "sections": {
+            "sleeping_area": {
+                "current_setup": "Basic cot taking up half of the cargo space.",
+                "ideas": [
+                    "Extendable slide-out bed",
+                    "Consider a Murphy bed",
+                    "Add under-bed storage"
+                ]
+            },
+            "cooking_kitchen": {
+                "current_setup": "None.",
+                "ideas": [
+                    "Portable dual-fuel stove (propane/butane)",
+                    "Fold-out countertop (use on balcony)",
+                    "Portable 12V fridge"
+                ]
+            },
+            "bathroom_shower": {
+                "current_setup": "Bucket with kitty litter and doggy bags.",
+                "decision_making": {
+                    "option_1": {
+                        "description": "Outdoor shower on bumper rack",
+                        "pros": "More space, easy drainage",
+                        "cons": "Requires privacy curtains"
+                    },
+                    "option_2": {
+                        "description": "Indoor portable shower",
+                        "pros": "Better privacy, indoor use",
+                        "cons": "Takes up more space"
+                    },
+                    "chosen": "TBD"
+                },
+                "ideas": [
+                    "Collapsible privacy curtains",
+                    "Compostable waste bags for toilet system"
+                ]
+            },
+            "office_workspace": {
+                "ideas": [
+                    "Foldable desk for workspace",
+                    "Power outlets and USB charging ports",
+                    "Movable seating",
+                    "Modular storage solutions"
+                ]
+            },
+            "smart_hub": {
+                "purpose": "Control all IoT functions in the van.",
+                "ideas": [
+                    "Sensors for temperature, humidity, CO2, and motion detection",
+                    "Integrated speakers and microphones for AI interaction",
+                    "Central control via iPhone for all devices"
+                ]
+            },
+            "electrical": {
+                "current_setup": "Bluetti 800 watt-hour portable battery.",
+                "ideas": [
+                    "Modular power banks for small 5V and 12V devices",
+                    "No need for large inverter or complex wiring setup"
+                ]
+            }
+        }
+    }
+}
+

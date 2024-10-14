@@ -1,0 +1,33 @@
+{
+    "component_name": "Smart Hub",
+    "description": "The Smart Hub serves as the central control system for all IoT functionalities in the van, including automation, security, environmental monitoring, and AI interaction.",
+    "features": {
+        "sensors": [
+            "Temperature sensor",
+            "Humidity sensor",
+            "CO2 sensor",
+            "Motion detection for security"
+        ],
+        "security": {
+            "internet_connection": "Connect to the internet for remote monitoring and control",
+            "notifications": "Real-time alerts and notifications to your phone if motion or security breaches are detected"
+        },
+        "AI_integration": {
+            "speakers": "Speakers for audio feedback and interaction",
+            "microphones": "Microphones for voice commands and interactions with AI systems"
+        },
+        "power_management": {
+            "control_system": "Central control for managing power distribution to 5V, 12V devices, and the Bluetti battery system",
+            "future_integration": "Future integration with solar panels (if added)"
+        }
+    },
+    "task_automation": {
+        "tasks": [
+            "Automate recurring tasks such as charging batteries, cleaning reminders, and general van maintenance checks"
+        ]
+    },
+    "remote_access": {
+        "control_methods": "Full control of the van's systems (lights, locks, security, power) through the Smart Hub app, accessible via iPhone."
+    }
+}
+

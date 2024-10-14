@@ -1,0 +1,24 @@
+{
+    "project_name": "Van Build Project",
+    "overview": {
+        "description": "The Van Project focuses on converting a 2019 Ford Transit Connect van into a modular, smart-enabled living space.",
+        "goals": [
+            "Create a livable, efficient van space with core areas: sleeping, cooking, bathroom, and office.",
+            "Integrate a Smart Hub for IoT control, including automation, security, and power management.",
+            "Ensure sustainability with modular power systems (Bluetti and portable power banks)."
+        ],
+        "structure": [
+            "Outline for brainstorming and decisions.",
+            "Step-by-Step Project Plan for actionable steps.",
+            "Smart Hub file for detailed control and automation info.",
+            "Timeline for tracking project progress."
+        ]
+    },
+    "files": {
+        "smart_hub": "smart_hub_overview.md",
+        "outline": "outline_with_decisions_final.md",
+        "timeline": "van_build_timeline_final.md"
+    },
+    "prompt_instructions": "This JSON provides an overview. GPT should check the files (smart_hub, outline, timeline) for specific details. If files are missing, prompt the user to upload them."
+}
+

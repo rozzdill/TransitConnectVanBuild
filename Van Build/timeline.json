@@ -1,0 +1,24 @@
+{
+  "timeline": {
+    "overview": "This timeline tracks each step of the van build process, including tools, design, challenges, and progress. The goal is to document the entire journey for potential future use in a YouTube video or portfolio.",
+    "phases": {
+      "phase_1": {
+        "name": "Design",
+        "date": "[Insert today's date]",
+        "summary": "This phase is focused on planning and designing the van build by working with GPT to outline all key features.",
+        "tasks": [
+          "Define core areas of the van (Sleeping, Cooking, Office, Smart Hub, etc.)",
+          "Discuss modular systems (e.g., Bluetti battery, portable power banks)",
+          "Set up Smart Hub control center for IoT devices and automation"
+        ],
+        "tools": [
+          "GPT for brainstorming and problem-solving"
+        ],
+        "challenges": [
+          "None yet, as this is still the planning stage"
+        ]
+      }
+    }
+  }
+}
+
